@@ -137,8 +137,8 @@ Worked on data analysis, operational research, and product operations, using tra
 
 I'm interested in opportunities across **Data Analytics, Product Analytics, Business Intelligence, and Product Operations**.
 
- **Email:** YOUR_EMAIL  
- **LinkedIn:** YOUR_LINKEDIN
+ **Email:** purohitn409@gmail.com  
+ **LinkedIn:** [Naveen Purohit](https://www.linkedin.com/in/naveen-purohit-44671a2aa/)
 
 ---
 
