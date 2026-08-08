@@ -1,5 +1,7 @@
 # Hi, I'm Naveen Purohit 👋
-### Data Analyst | Product Analytics | Business Intelligence
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Product+Analytics;SQL+%7C+Power+BI+%7C+Python;Business+Intelligence+%7C+Data-Driven+Decision+Making" alt="Typing SVG" />
+</p>
 
 I analyze business, customer, and operational data to uncover insights that support better decisions and measurable outcomes.
 
