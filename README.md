@@ -1,6 +1,6 @@
 # Hi, I'm Naveen Purohit 👋
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4500&pause=1800&color=000000&left=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Product+Analytics;SQL+%7C+Power+BI+%7C+Python;Business+Intelligence+%7C+Data-Driven+Decision+Making" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4500&pause=1800&color=000000&left=true&vCenter=true&width=750&lines=Software+Engineer+%7C+Data+Analytics;Open+to+Software+%7C+Data+%7C+Product+Roles;SQL+%7C+Power+BI+%7C+Excel+%7C+Python;Product+Analytics+%7C+Business+Intelligence" alt="Typing SVG" />
 </p>
 
 I analyze business, customer, and operational data to uncover insights that support better decisions and measurable outcomes.
