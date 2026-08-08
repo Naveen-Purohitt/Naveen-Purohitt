@@ -8,7 +8,7 @@ With hands-on experience in **SQL, Power BI, Excel, and Business Intelligence**,
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 
 - 📊 Analyze business and customer data to uncover actionable insights
 - 🔎 Build SQL-based analysis and customer segmentation models
@@ -18,7 +18,7 @@ With hands-on experience in **SQL, Power BI, Excel, and Business Intelligence**,
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Analytics & BI**
 
@@ -40,7 +40,7 @@ With hands-on experience in **SQL, Power BI, Excel, and Business Intelligence**,
 
 ## 📌 Featured Projects
 
-### 🛒 Zepto E-Commerce SQL Data Analysis
+###  Zepto E-Commerce SQL Data Analysis
 **PostgreSQL | SQL | Data Analytics**
 
 - Built a **PostgreSQL ETL pipeline** to clean and analyze **3,732 SKUs**
@@ -52,7 +52,7 @@ With hands-on experience in **SQL, Power BI, Excel, and Business Intelligence**,
 
 ---
 
-### 📊 Customer Segmentation & Revenue Optimization
+###  Customer Segmentation & Revenue Optimization
 **SQL | Power BI | Excel**
 
 - Analyzed customer behavior and purchasing patterns
@@ -64,7 +64,7 @@ With hands-on experience in **SQL, Power BI, Excel, and Business Intelligence**,
 
 ---
 
-### 📈 Vendor Performance Analysis Dashboard
+###  Vendor Performance Analysis Dashboard
 **SQL | Power BI | Excel**
 
 - Analyzed vendor performance and operational metrics
@@ -102,7 +102,7 @@ Worked on data analysis, operational research, and product operations, using tra
 
 ---
 
-## 📈 Analytics Impact
+##  Analytics Impact
 
 | Metric | Impact |
 |---|---:|
@@ -115,7 +115,7 @@ Worked on data analysis, operational research, and product operations, using tra
 
 ---
 
-## 🎯 Currently Focused On
+##  Currently Focused On
 
 - Advanced SQL & Business Analytics
 - Power BI & Dashboard Development
@@ -136,8 +136,8 @@ Worked on data analysis, operational research, and product operations, using tra
 
 I'm interested in opportunities across **Data Analytics, Product Analytics, Business Intelligence, and Product Operations**.
 
-📧 **Email:** YOUR_EMAIL  
-💼 **LinkedIn:** YOUR_LINKEDIN
+ **Email:** YOUR_EMAIL  
+ **LinkedIn:** YOUR_LINKEDIN
 
 ---
 
