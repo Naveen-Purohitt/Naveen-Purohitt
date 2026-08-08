@@ -79,12 +79,14 @@ Worked on data analysis, operational research, and product operations, using tra
 
 ---
 
-### Business Development Intern — Data Analytics
+### Business Analyst Intern
 
-- Analyzed **3,900+ customer records**
-- Built SQL-based customer segmentation analysis
-- Identified **2,500 repeat customers** and **958 churn-risk customers**
-- Developed a Power BI dashboard that improved reporting efficiency by **40%**
+**God Gift Foundation**
+
+- Generated, researched, and **qualified business leads** based on target requirements
+- **Verified prospects** and coordinated outreach to schedule qualified **business meetings**
+- Analyzed **client requirements** and translated business needs into **actionable solutions**
+- Supported **solution and design development** based on client requirements and business analysis
 
 ---
 
