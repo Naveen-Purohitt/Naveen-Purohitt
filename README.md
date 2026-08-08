@@ -1,16 +1,130 @@
-## Hi there 👋
+# Hi, I'm Naveen Purohit 👋
 
-<!--
-**Naveen-Purohitt/Naveen-Purohitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Product Analytics | Business Intelligence
 
-Here are some ideas to get you started:
+I analyze business, customer, and operational data to uncover insights that support better decisions and measurable outcomes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With hands-on experience in **SQL, Power BI, Excel, and Business Intelligence**, I work across data analysis, customer analytics, KPI reporting, and operational improvement.
+
+---
+
+## 🚀 What I Do
+
+- 📊 Analyze business and customer data to uncover actionable insights
+- 🔎 Build SQL-based analysis and customer segmentation models
+- 📈 Develop interactive Power BI dashboards and KPI reports
+- ⚙️ Identify operational gaps and opportunities for process improvement
+- 🧠 Apply product thinking to understand users, metrics, and business outcomes
+
+---
+
+## 🛠️ Tech Stack
+
+**Analytics & BI**
+
+`SQL` `Power BI` `Advanced Excel` `Python`
+
+**Product & Business**
+
+`Product Analytics` `KPI Analysis` `Customer Segmentation` `Business Intelligence`
+
+**Development**
+
+`C` `C++` `HTML` `CSS` `JavaScript`
+
+**Tools**
+
+`Git` `GitHub` `Figma` `Notion` `Power Automate`
+
+---
+
+## 📌 Featured Projects
+
+### 📊 Customer Segmentation & Revenue Optimization
+**SQL | Power BI | Excel**
+
+- Analyzed customer behavior and purchasing patterns
+- Built segmentation models to identify repeat and churn-risk customers
+- Derived actionable insights for customer retention and revenue optimization
+- Designed analytics outputs to support data-driven decision making
+
+🔗 **[View Project](#)**
+
+---
+
+### 📈 Vendor Performance Analysis Dashboard
+**SQL | Power BI | Excel**
+
+- Analyzed vendor performance and operational metrics
+- Built KPI-driven dashboard views for performance monitoring
+- Identified performance gaps and recurring operational issues
+- Translated analysis into actionable business recommendations
+
+🔗 **[View Project](#)**
+
+---
+
+## 💼 Experience
+
+### Research Intern — Data Analysis & Product Operations
+**Tech Mahindra**
+
+Worked on data analysis, operational research, and product operations, using transaction-level data to identify performance gaps and improve reporting and operational accuracy.
+
+**Key Impact:**
+- Analyzed **5,000+ transaction records**
+- Contributed to an **18% improvement in SLA adherence**
+- Performed root-cause analysis to identify recurring discrepancies
+- Supported **100% KYC & AML compliance**
+
+---
+
+### Business Development Intern — Data Analytics
+
+- Analyzed **3,900+ customer records**
+- Built SQL-based customer segmentation analysis
+- Identified **2,500 repeat customers** and **958 churn-risk customers**
+- Developed a Power BI dashboard that improved reporting efficiency by **40%**
+
+---
+
+## 📈 Analytics Impact
+
+| Metric | Impact |
+|---|---:|
+| Transaction Records Analyzed | 5,000+ |
+| Customer Records Analyzed | 3,900+ |
+| Repeat Customers Identified | 2,500 |
+| Churn-Risk Customers Identified | 958 |
+| SLA Adherence Improvement | 18% |
+| Reporting Efficiency Improvement | 40% |
+
+---
+
+## 🎯 Currently Focused On
+
+- Advanced SQL & Business Analytics
+- Power BI & Dashboard Development
+- Product Analytics
+- Customer & Revenue Analytics
+- Data-Driven Product Decision Making
+
+---
+
+## 🏆 Certifications
+
+- **Microsoft Power BI Data Analyst Achievement** — Microsoft Learn
+- **SQL (Basic)** — HackerRank
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in opportunities across **Data Analytics, Product Analytics, Business Intelligence, and Product Operations**.
+
+📧 **Email:** YOUR_EMAIL  
+💼 **LinkedIn:** YOUR_LINKEDIN
+
+---
+
+⭐ *If you find my projects useful, feel free to explore the repositories and connect with me.*
