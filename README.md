@@ -1,5 +1,7 @@
-# Hi, I'm Naveen Purohit 👋
-
+<h1>
+  Hi, I'm Naveen Purohit
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
+</h1>
 ### Data Analyst | Product Analytics | Business Intelligence
 
 I analyze business, customer, and operational data to uncover insights that support better decisions and measurable outcomes.
