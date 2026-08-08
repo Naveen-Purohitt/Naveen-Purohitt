@@ -40,6 +40,18 @@ With hands-on experience in **SQL, Power BI, Excel, and Business Intelligence**,
 
 ## 📌 Featured Projects
 
+### 🛒 Zepto E-Commerce SQL Data Analysis
+**PostgreSQL | SQL | Data Analytics**
+
+- Built a **PostgreSQL ETL pipeline** to clean and analyze **3,732 SKUs**
+- Identified **453 high-value stock-outs** and key drivers of margin variance
+- Analyzed inventory performance and reported **87.8% product availability**
+- Used **SQL Window Functions** to rank highly discounted SKUs and uncover pricing insights
+
+🔗 **[View Project](#)**
+
+---
+
 ### 📊 Customer Segmentation & Revenue Optimization
 **SQL | Power BI | Excel**
 
