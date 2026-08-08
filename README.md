@@ -23,7 +23,7 @@ With hands-on experience in **SQL, Power BI, Excel, and Business Intelligence**,
 
 **Analytics & BI**
 
-`SQL` `Power BI` `Advanced Excel` `Python`
+<p> <img src="https://skillicons.dev/icons?i=postgresql,mysql,python" height="45" /> </p>  `Power BI` `Advanced Excel`
 
 **Product & Business**
 
@@ -31,11 +31,11 @@ With hands-on experience in **SQL, Power BI, Excel, and Business Intelligence**,
 
 **Development**
 
-`C` `C++` `HTML` `CSS` `JavaScript`
+<p> <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js" height="45" /> </p>
 
 **Tools**
 
-`Git` `GitHub` `Figma` `Notion` `Power Automate`
+<p> <img src="https://skillicons.dev/icons?i=git,github,figma,notion" height="45" /> </p>  `Power Automate`
 
 ---
 
